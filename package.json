@@ -1,0 +1,16 @@
+{
+  "name": "codex-come-back-later",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "description": "A persistent amber Come back later marker in the native Codex desktop chat list.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test test/state.test.mjs test/capture-ordering.test.mjs test/development-bootstrap.test.mjs",
+    "test:macos": "python3 -m unittest discover -s test -p \"*test.py\" -v",
+    "test:integration": "node --test --test-concurrency=1 test/*.test.mjs"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "version": "26.1111.21308",
+  "build": "27194",
+  "bundle_id": "com.openai.codex",
+  "vendor_team": "2DC432GLL2",
+  "archive_sha256": "64782f30d783c24eb483e92f9a2e884ada6d24dc105fc27659ba16e073da145c",
+  "header_sha256": "463dc668e2650299706a6820a28ab5e45c12cf93d65239c2fe8a7c07ad834b44",
+  "plist_sha256": "3186b14a08747ac8becf7bb40b95ba97c97495801c621ba97237405ade4235c8",
+  "index_sha256": "459e5fa804aa2bab25956d787e4d452b0ea7742784936d670be0f8c025340559",
+  "app_entry": "webview/assets/348410.374a9b8f98.js",
+  "app_entry_sha256": "0524ee891262587e2605b573f75ebb1cce4df2b3db154a8f14a2f24a9e80dc0b",
+  "targets": [
+    {
+      "path": "webview/assets/async/183533.4dea558bc2.js",
+      "sha256": "b99af3c942effba65799f8da09fdfa2bb49053aa0b2f1cef16c6d98d41599531",
+      "modules": [
+        "seW7"
+      ]
+    },
+    {
+      "path": "webview/assets/async/364303.0848d8d911.js",
+      "sha256": "11342c11c8d0988fbba4c5e1e994676dd267a268192a896f80ead8a1766e2765",
+      "modules": [
+        "oprL"
+      ]
+    },
+    {
+      "path": "webview/assets/async/378387.8f326dcc65.js",
+      "sha256": "afde61bd02d198ca2ed9caec960a3ef48eed0867707f4394c6fc9a07523c8853",
+      "modules": [
+        "seW7"
+      ]
+    },
+    {
+      "path": "webview/assets/async/400388.653b85540f.js",
+      "sha256": "cabce3d82036c708361885f56c937d8df76f243f90c2f1693f18034f112a83f2",
+      "modules": [
+        "seW7"
+      ]
+    },
+    {
+      "path": "webview/assets/async/486887.8844429c7e.js",
+      "sha256": "b3105263cb15643ec4abe4aa7f96cf1f43ee56b7aa18c46dfe6ceb4b6a80a240",
+      "modules": [
+        "cojq"
+      ]
+    },
+    {
+      "path": "webview/assets/async/528362.c5f3e73266.js",
+      "sha256": "fcde5e19e5659bd826d0d7557d33ff35a83afbf71fc503a3f30375adbd26e442",
+      "modules": [
+        "seW7"
+      ]
+    },
+    {
+      "path": "webview/assets/async/745686.d997e94a90.js",
+      "sha256": "10f1930fa7f0ae493da64f92050c8622bf74780e4f9692d3e3ada5fefc948f21",
+      "modules": [
+        "seW7"
+      ]
+    },
+    {
+      "path": "webview/assets/async/807676.8e47f01e02.js",
+      "sha256": "b3db564f4c284ee08986ccf569b8fa2662561f90481dce35c8023b511bea33d4",
+      "modules": [
+        "seW7"
+      ]
+    },
+    {
+      "path": "webview/assets/async/914909.6d885bfd96.js",
+      "sha256": "e37f0abbf6f94c01fe528422da8903faf20322f77d5cbe554d4be5066a795c64",
+      "modules": [
+        "seW7"
+      ]
+    },
+    {
+      "path": "webview/assets/async/952376.c1d84b98f5.js",
+      "sha256": "d3cd59f8accef6a7e98e16204d3a8f9280247129b453b4afdb0e9301f0418818",
+      "modules": [
+        "seW7"
+      ]
+    },
+    {
+      "path": "webview/assets/async/970710.021d824ee5.js",
+      "sha256": "1ef5f9806d60d3aa248188dbeff1aed326ea771397c7e6b9b493041de3e5caaf",
+      "modules": [
+        "seW7"
+      ]
+    }
+  ]
+}

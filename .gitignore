@@ -1,0 +1,13 @@
+build/
+__pycache__/
+*.pyc
+.DS_Store
+*.app/
+*.asar
+*.p12
+*.pfx
+*.cer
+*.mobileprovision
+*.provisionprofile
+.env*
+.checkpoint/
